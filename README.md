@@ -5,9 +5,9 @@ microblog is a simple rudiment , include login , register , publish blog and sho
 
 
 # start
-1 npm install
-2 download,unzip and start \Mongodb\bin\mongod.exe as local server
-3 node ./bin/www
-4 input brower : http://localhost:3000/
+1 npm install <br/>
+2 download,unzip and start \Mongodb\bin\mongod.exe as local server <br/>
+3 node ./bin/www <br/>
+4 input brower : http://localhost:3000/ <br/>
 
 
